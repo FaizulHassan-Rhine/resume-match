@@ -493,7 +493,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-2xl font-bold mb-3 text-black">Add Job Description</h3>
                 <p className="text-gray-700 leading-relaxed">
-                  Paste the complete job description you're applying for. Our AI-powered engine analyzes requirements, skills, and expectations in real-time.
+                  Paste the complete job description you&apos;re applying for. Our AI-powered engine analyzes requirements, skills, and expectations in real-time.
                 </p>
               </CardContent>
             </Card>

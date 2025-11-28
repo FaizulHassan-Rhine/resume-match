@@ -351,7 +351,7 @@ export default function ResultsPage() {
                                     💡 Quick Tip:
                                 </p>
                                 <p className="text-xs text-yellow-800">
-                                    Naturally incorporate these keywords into your experience descriptions, skills section, or summary. Don't just list them—show how you've used them.
+                                    Naturally incorporate these keywords into your experience descriptions, skills section, or summary. Don&apos;t just list them—show how you&apos;ve used them.
                                 </p>
                             </div>
                             <div className="flex flex-wrap gap-2">
@@ -382,7 +382,7 @@ export default function ResultsPage() {
                         <CardHeader>
                             <CardTitle className="text-blue-900">ATS Feedback & Recommendations</CardTitle>
                             <CardDescription className="text-blue-700">
-                                Actionable insights to improve your resume's ATS compatibility
+                                Actionable insights to improve your resume&apos;s ATS compatibility
                             </CardDescription>
                         </CardHeader>
                         <CardContent>
